@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-ab94ec4fc8.yslauva.cn/sitemap.xml
